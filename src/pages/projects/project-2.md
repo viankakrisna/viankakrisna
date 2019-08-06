@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Metronomeno
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_img_path: images/2_thumb.jpg
