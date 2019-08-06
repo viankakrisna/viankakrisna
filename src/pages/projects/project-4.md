@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: minimalist
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_img_path: images/4_thumb.jpg
